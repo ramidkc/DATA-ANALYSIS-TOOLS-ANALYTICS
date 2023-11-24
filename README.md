@@ -72,3 +72,7 @@ The data frame created by function channel type.
 dis = channeltype(df)
 ```
 ![Alt Text](Picture1.png)
+
+The loaded csv file "top_1000" in the SQL database "assignment4" named "top_1000_youtube_channels".
+![Alt Text](Picture2.png)
+
