@@ -1,5 +1,6 @@
-# DATA-ANALYSIS-TOOLS-ANALYTICS 
-One Paragraph of project description goes here....
+# Analyzing YouTube Channel Data
+This Python project focuses on the analysis of a YouTube dataset using Pandas and SQLAlchemy. Initial steps include importing necessary libraries and exploring the dataset's structure. A function, channeltype, is created to calculate the distribution of channel types from the top 1000 records, presenting the results in a tabular format. Additionally, the project involves extracting and saving the top 1000 records to a CSV file and a MySQL database table, showcasing basic data handling and storage capabilities. 
+These analytical and data handling tasks serve as foundational components for more extensive data exploration and insights in the realm of YouTube channel analytics.
 
 ## Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
@@ -79,6 +80,9 @@ The loaded csv file "top_1000" in the SQL database "assignment4" named "top_1000
 ## Authors
 Rami Dhungana K C  ([@ramidkc](https://github.com/ramidkc))
 
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
 ## Acknowledgments
 This project is the result of the collaborative effort of the following contributors:
 
@@ -87,6 +91,4 @@ This project is the result of the collaborative effort of the following contribu
 - Nitesh Talukdar
 - Uzma Khan ([@UzmaGitHub](https://github.com/UzmaGithub))
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details
 
