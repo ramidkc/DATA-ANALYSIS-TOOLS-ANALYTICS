@@ -6,10 +6,10 @@ These analytical and data handling tasks serve as foundational components for mo
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
 ## Prerequisites
-Python
-pandas
-sqlalchemy
-pymysql (for MySQL connection
+- Python
+- pandas
+- sqlalchemy
+- pymysql (for MySQL connection)
 
 ## Installing
 Install the required packages
