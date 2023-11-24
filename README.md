@@ -78,7 +78,7 @@ The loaded csv file "top_1000" in the SQL database "assignment4" named "top_1000
 
 ![Alt Text](Picture2.jpg)
 ## Authors
-Rami Dhungana K C  ([@ramidkc](https://github.com/ramidkc))
+Rami Dhungana K C  ([ramidkc](https://github.com/ramidkc))
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](License.md) file for details
@@ -89,6 +89,6 @@ This project is the result of the collaborative effort of the following contribu
 - Prof. Omar Altrad
 - Jill Shah
 - Nitesh Talukdar
-- Uzma Khan ([@UzmaGitHub](https://github.com/UzmaGithub))
+- Uzma Khan ([UzmaGitHub](https://github.com/UzmaGithub))
 
 
