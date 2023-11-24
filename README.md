@@ -12,10 +12,10 @@ pymysql (for MySQL connection
 
 ## Installing
 Install the required packages
-'''
+```
 pip install sqlalchemy
 pip install pymysql
-'''
+```
 Say what the step will be
 
 Give the example
