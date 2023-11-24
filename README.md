@@ -82,7 +82,11 @@ Rami Dhungana K C  ([@ramidkc](https://github.com/ramidkc))
 ## Acknowledgments
 This project is the result of the collaborative effort of the following contributors:
 
+- Prof. Omar Altrad
 - Jill Shah
 - Nitesh Talukdar
 - Uzma Khan ([@UzmaGitHub](https://github.com/UzmaGithub))
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
