@@ -71,4 +71,4 @@ The data frame created by function channel type.
 ```
 dis = channeltype(df)
 ```
-##![Alt Text](relative/path/to/image.png)
+![Alt Text](Picture1.png)
