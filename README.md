@@ -56,17 +56,19 @@ top_1000.to_csv("top_1000_channels.csv", index=False)
 ```
 
 ### Save Top 1000 Records to Database Table
-An engine is created using SQLAlchemy to establish a connection to a MySQL database. Subsequently, the to_sql method is utilized to passively save the DataFrame (top_1000) into a table named 'top_1000_youtube_channels' within the designated database. This operation is conducted in a manner that replaces the existing table if it already exists.
+An engine is created using SQLAlchemy to establish a connection to a MySQL database. Subsequently, the to_sql method is utilized to passively save the DataFrame (top_1000) into a table named 'top_1000_youtube_channels' within the designated database. This operation is conducted in a manner that replaces the existing table if it already exists. 
 
 ```
 # Create the engine with the MySQL dialect and the appropriate connection details
 # Create the engine
 engine = create_engine(f'mysql+pymysql://{username}:{password}@{host}/{database_name}')
-
-# Assuming 'your_dataframe' is the DataFrame you want to save
+#saveing the top_1000 to database with name top_1000_youtbue_channels
 top_1000.to_sql('top_1000_youtube_channels', con=engine, if_exists='replace', index=False)
 
 ```
 ## Deployment
-the data frame created by function channel type.
-
+The data frame created by function channel type.
+```
+dis = channeltype(df)
+```
+##![Alt Text](relative/path/to/image.png)
