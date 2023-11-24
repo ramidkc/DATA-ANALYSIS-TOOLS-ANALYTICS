@@ -76,4 +76,10 @@ dis = channeltype(df)
 The loaded csv file "top_1000" in the SQL database "assignment4" named "top_1000_youtube_channels".
 
 ![Alt Text](Picture2.jpg)
+## Authors and Acknowledgments
+This project is the result of the collaborative effort of the following contributors:
+
+-Jill Shah
+- Nitesh Talukdar
+- Uzma Khan ([@UzmaGitHub](https://github.com/UzmaGithub))
 
