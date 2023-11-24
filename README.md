@@ -4,16 +4,18 @@ One Paragraph of project description goes here....
 ## Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
-#Prerequisites
+## Prerequisites
 Python
 pandas
 sqlalchemy
 pymysql (for MySQL connection
 
-Give examples
-Installing
-A step by step series of examples that tell you how to get a development env running
-
+## Installing
+Install the required packages
+'''
+pip install sqlalchemy
+pip install pymysql
+'''
 Say what the step will be
 
 Give the example
